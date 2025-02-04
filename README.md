@@ -4,7 +4,7 @@ A curated collection of open-source projects in the aerospace domain, ranging fr
 
 ## Purpose
 
-This repository serves as a comprehensive tracker for open-source aerospace projects, helping engineers, researchers, and enthusiasts find relevant tools for their work. The projects are cataloged with key information including:
+Hey I'm Sinai! This repository serves as a comprehensive tracker for open-source aerospace projects, helping engineers, researchers, and enthusiasts find relevant tools for their work. The projects are cataloged with key information including:
 
 - Project descriptions
 - Repository links
