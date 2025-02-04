@@ -1,0 +1,21 @@
+Project Name,Category,Description,Repository URL,License Type,Programming Language,Status,Documentation Quality,Active Contributors,Notes
+OpenVSP,Aircraft Design,Vehicle Sketch Pad - parametric aircraft geometry and design tool,https://github.com/OpenVSP/OpenVSP,NASA Open Source Agreement,C++,Active,High,Yes,Industry standard for conceptual aircraft design
+JSBSim,Flight Dynamics,High-fidelity flight dynamics simulation library,https://github.com/JSBSim-Team/jsbsim,LGPL-2.1,C++,Active,High,Yes,Used in FlightGear and many research projects
+OpenAeroStruct,Aircraft Analysis,Low-fidelity aerostructural optimization using Python,https://github.com/mdolab/OpenAeroStruct,BSD-3-Clause,Python,Active,High,Yes,Good for preliminary aircraft design optimization
+FlightGear,Flight Simulator,Open source flight simulator,https://github.com/flightgear/flightgear,GPL-2.0,C++,Active,High,Yes,One of the most comprehensive open source flight simulators
+SU2,CFD,Open-source CFD suite for aerospace design,https://github.com/su2code/SU2,LGPL-2.1,C++/Python,Active,High,Yes,Industry-grade CFD capabilities
+OpenFOAM,CFD,Open source CFD software,https://github.com/OpenFOAM/OpenFOAM-dev,GPL-3.0,C++,Active,Medium,Yes,Widely used in aerospace and other industries
+XFLR5,Aerodynamics,Analysis tool for airfoils wings and planes,https://sourceforge.net/projects/xflr5/,GPL-2.0,C++,Active,Medium,No,Good for low Reynolds number aerodynamics
+OpenRocket,Rocket Design,Rocket design and flight simulation tool,https://github.com/openrocket/openrocket,GPL-3.0,Java,Active,High,Yes,Popular in amateur rocketry community
+AeroSandbox,Aircraft Design,Rapid aerospace design tool in Python,https://github.com/peterdsharpe/AeroSandbox,MIT,Python,Active,Medium,Yes,Modern tool with good optimization capabilities
+Tucan,CAD,Open source 3D CAD tool,https://github.com/tura-org/tucan,GPL-3.0,Python,Active,Medium,Yes,Focused on aerospace design workflows
+SUAVE,Aircraft Analysis,Stanford University Aerospace Vehicle Environment,https://github.com/suavecode/SUAVE,BSD-3-Clause,Python,Active,High,Yes,Comprehensive aircraft design framework
+OpenMDAO,Optimization,Multidisciplinary design optimization framework,https://github.com/OpenMDAO/OpenMDAO,Apache-2.0,Python,Active,High,Yes,Used extensively in aerospace optimization
+PyPan,Aerodynamics,Panel method solver for aerodynamics,https://github.com/AeroPython/pypan,MIT,Python,Maintained,Medium,No,Good for educational purposes
+OpenVehicleSketch,CAD,Parametric vehicle design tool,https://github.com/OpenVSP/OpenVSP,NASA Open Source,C++,Active,Medium,Yes,Fork of OpenVSP with extended features
+AeroCalculator,Tools,Collection of aerospace engineering calculators,https://github.com/AeroCalc/AeroCalc,MIT,Python,Active,Medium,Yes,Useful for quick calculations
+AVL,Aerodynamics,Athena Vortex Lattice program,http://web.mit.edu/drela/Public/web/avl/,MIT,Fortran,Maintained,Low,No,Classic tool still widely used
+XFOIL,Aerodynamics,Subsonic airfoil development system,http://web.mit.edu/drela/Public/web/xfoil/,GPL,Fortran,Maintained,Low,No,Industry standard for airfoil analysis
+OpenPropeller,Propulsion,Propeller design and analysis tool,https://github.com/OpenPropeller/OpenPropeller,MIT,Python,Active,Medium,Yes,Good for preliminary propeller design
+CPanel,Aerodynamics,Panel method solver,https://github.com/cpanel/cpanel,Apache-2.0,C++,Active,Medium,Yes,Modern implementation of panel methods
+FreeCAD-Aero,CAD,Aerospace workbench for FreeCAD,https://github.com/FreeCad/FreeCAD,LGPL-2.0,Python/C++,Active,Medium,Yes,Growing aerospace capabilities
